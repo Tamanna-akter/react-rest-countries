@@ -1,0 +1,11 @@
+.navbar a{
+text-decoration: none;
+padding: 20px;
+margin-right: 15px;
+}
+
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr) ;
+    grid-gap: 10px;
+}
